@@ -1,4 +1,4 @@
-![Working Dev GIF](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
+![image](https://github.com/user-attachments/assets/1ffeb853-a3d5-4268-8ede-534f33d4174f)
 
 
 
