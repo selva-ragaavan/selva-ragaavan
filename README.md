@@ -2,7 +2,7 @@
 
 
 
-# Hi there, I'm Selvaragavan 👋
+# Hi there, I'm Selvaragaavan 👋
 
 - **Full Name**: Selvaragavan  
 - **Bachelor's**: Electrical and Electronics Engineering (EEE)  
