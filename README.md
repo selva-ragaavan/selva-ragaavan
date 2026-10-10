@@ -6,7 +6,7 @@
 
 - **Full Name**: Selvaragavan  
 - **Bachelor's**: Electrical and Electronics Engineering (EEE)  
-- **Interests**: Pcb designing , 3d modeling , firmware programming
+- **Interests**: Hardware Design
 - **Hobby** :   Chess, finanical markets
 - **Contact** : [![Instagram](https://img.shields.io/badge/Instagram-%40selvaragavan7398-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/selvaragavan7398)
 - **Pronouns**: He/Him  
